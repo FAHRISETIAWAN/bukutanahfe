@@ -1,0 +1,451 @@
+{
+"data": [
+	{
+		"NIPBARU" : "199604302022041002",
+		"NAMA" : "AHMAD AYYASH ISLAMI",
+		"NAMAJABATAN" : "Analis Survei, Pengukuran, Dan Pemetaan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "ahmad.aislami@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "199702082022042002",
+		"NAMA" : "ANABELLA ALYA WARDHANI",
+		"NAMAJABATAN" : "Analis Hukum Pertanahan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "anabella.awardhani@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198212262006041006",
+		"NAMA" : "ANDIKA ARIADARMA",
+		"NAMAJABATAN" : "Kepala Seksi Survei dan Pemetaan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "andika.ariadarma01@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "196704041989032002",
+		"NAMA" : "ANIS TJANDRAWATI",
+		"NAMAJABATAN" : "Analis Pengelolaan Keuangan Anggaran Pendapatan dan Belanja Negara Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "anis.tjandrawati@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "197905272014082002",
+		"NAMA" : "ARINNY ROSMALA DEWI",
+		"NAMAJABATAN" : "Analis Pertanahan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "arinny.rdewi@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "199204272022042003",
+		"NAMA" : "ARTISA WAHYU NURKHAYATI",
+		"NAMAJABATAN" : "Pengolah Data Yuridis Pertanahan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "artisa.wnurkhayati@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "196806291989032001",
+		"NAMA" : "DARMA PUTRI MAYANG",
+		"NAMAJABATAN" : "Penata Pertanahan Muda",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "darma.pmayang@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "199011072014022004",
+		"NAMA" : "DAYINTA CITRA SINTARESMI",
+		"NAMAJABATAN" : "Analis Hukum Pertanahan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "dayinta.cssh@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198610202006041002",
+		"NAMA" : "DERY ARYA PANDHIKA",
+		"NAMAJABATAN" : "Penata Kadastral Ahli Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "dery.apandhika@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198312112009032007",
+		"NAMA" : "DESSY ARIYANI",
+		"NAMAJABATAN" : "Penata Pertanahan Ahli Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "dessy.ariyani@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198302012006042001",
+		"NAMA" : "DESSY WULANSARI",
+		"NAMAJABATAN" : "Penata Pertanahan Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "dessy.wulansari@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198204192003122001",
+		"NAMA" : "DEWI KANIA PRAMANIK",
+		"NAMAJABATAN" : "Penata Pertanahan Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "dewi.kpramanik@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "197911282003122006",
+		"NAMA" : "DEWI NOVITA SARI",
+		"NAMAJABATAN" : "Penata Pertanahan Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "dewi.nsari@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "197701151998032001",
+		"NAMA" : "DHYMES PRASETYOWATI",
+		"NAMAJABATAN" : "Penata Pertanahan Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "Dhymes.prasetyowati@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198505302009122003",
+		"NAMA" : "DINI PUSPITASARI",
+		"NAMAJABATAN" : "Bendahara",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "dini.puspitasari@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "197208092006041016",
+		"NAMA" : "EMAN SULAEMAN",
+		"NAMAJABATAN" : "Pengadministrasi Umum",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "emanmansulaa6759@gmail.com"
+	},
+	{
+		"NIPBARU" : "198310282006042002",
+		"NAMA" : "ENI SUPRATMI",
+		"NAMAJABATAN" : "Analis Pengelolaan Keuangan Anggaran Pendapatan dan Belanja Negara Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "eni.supratmi@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198603092005022002",
+		"NAMA" : "EVA NOVALINA TAMBUNAN",
+		"NAMAJABATAN" : "Penata Pertanahan Ahli Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "eva.ntambunan@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198710082009122002",
+		"NAMA" : "EVITA NUR ELISA",
+		"NAMAJABATAN" : "Kepala Subbagian Tata Usaha",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "evita.nelisa@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "197202022014081003",
+		"NAMA" : "FERIALDI",
+		"NAMAJABATAN" : "Pengadministrasi Pertanahan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "ferialdi@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "199709052022042004",
+		"NAMA" : "FIDA ADHIATI",
+		"NAMAJABATAN" : "Analis Hukum Pertanahan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "fida.adhiati@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198708182011012010",
+		"NAMA" : "GALUH WARDINA",
+		"NAMAJABATAN" : "Penata Kadastral Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "galuh.wardina@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "199104012009122001",
+		"NAMA" : "GREITY ISIMA",
+		"NAMAJABATAN" : "Penata Pertanahan Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "greity.isima@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198108212002121005",
+		"NAMA" : "GUNANTO",
+		"NAMAJABATAN" : "Kepala Seksi Penataan dan Pemberdayaan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "gunanto@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "196812061993031004",
+		"NAMA" : "GUNARDI",
+		"NAMAJABATAN" : "Analis Hukum Pertanahan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "gunardi@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "197106061998042001",
+		"NAMA" : "ISTIQOMAH",
+		"NAMAJABATAN" : "Kepala Seksi Pengadaan Tanah dan Pengembangan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "istiqomah02@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198107072003121001",
+		"NAMA" : "JUNUS NICHOLAS BUTAR BUTAR",
+		"NAMAJABATAN" : "Penata Pertanahan Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "junus.nbbutar@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "196701301989031002",
+		"NAMA" : "KOSWARA",
+		"NAMAJABATAN" : "Kepala Seksi Penetapan Hak dan Pendaftaran",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "koswara02@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198603152005022002",
+		"NAMA" : "MARLIS DENTY",
+		"NAMAJABATAN" : "Penata Pertanahan Muda",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "marlis.denty@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198404222009122002",
+		"NAMA" : "MELIA YUSRI",
+		"NAMAJABATAN" : "Penata Pertanahan Muda",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "melia.yusri@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198411212009122001",
+		"NAMA" : "NOVALIANA",
+		"NAMAJABATAN" : "Penata Pertanahan Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "novaliana@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198911052011012006",
+		"NAMA" : "NOVITA ELISABETH PARDEDE",
+		"NAMAJABATAN" : "Penata Pertanahan Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "novita.epardede@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "199405022022042002",
+		"NAMA" : "NURANANDA BUDI MULIANI",
+		"NAMAJABATAN" : "Analis Hukum Pertanahan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "nurananda.bmuliani@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "197812182003122003",
+		"NAMA" : "PENTI SUPENTI",
+		"NAMAJABATAN" : "Analis Perencanaan Dan Kerjasama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "fensjasadi@gmail.com"
+	},
+	{
+		"NIPBARU" : "199111022022042002",
+		"NAMA" : "PERMATA ULFAH SUBAGIO",
+		"NAMAJABATAN" : "Analis Hukum Pertanahan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "permata.usubagio@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198905112009122002",
+		"NAMA" : "PUTRI RIZKI HANDAYANI",
+		"NAMAJABATAN" : "Penata Pertanahan Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "putri.rhandayani@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198702232006042001",
+		"NAMA" : "PUTRI SRI REJEKI",
+		"NAMAJABATAN" : "Penata Pertanahan Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "putri.srejeki@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "196710121986032001",
+		"NAMA" : "RETNO ARTININGSIH",
+		"NAMAJABATAN" : "Penata Pertanahan Ahli Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "retno.artiningsih@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "197707232008042001",
+		"NAMA" : "SHINTA PURWITASARI",
+		"NAMAJABATAN" : "Kepala Kantor Pertanahan Kota Tangerang Selatan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "shinta.purwitasari@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "196807011989032002",
+		"NAMA" : "SUJIATUN",
+		"NAMAJABATAN" : "Penata Pertanahan Pertama",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "sujiatun@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "199811102022041001",
+		"NAMA" : "SUKRON ALKHOLIQ",
+		"NAMAJABATAN" : "Pengelola Informasi Pertanahan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "sukron.alkholiq@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198305022011011002",
+		"NAMA" : "WAHYU EKO SUPRIHANDONO",
+		"NAMAJABATAN" : "Analis Survei, Pengukuran Dan Pemetaan",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "wahyu.esuprihandono@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "196905021994032003",
+		"NAMA" : "WASITO HARYATI",
+		"NAMAJABATAN" : "Kepala Seksi Pengendalian dan Penanganan Sengketa",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "wasito.haryati@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "197301111998032001",
+		"NAMA" : "WINARTI",
+		"NAMAJABATAN" : "Analis Tata Usaha",
+		"STATUSPEGAWAI" : "PNS",
+		"EMAIL" : "winarti@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198712302023211020",
+		"NAMA" : "DIMAS WIDYA ADHI PRATAMA",
+		"NAMAJABATAN" : null,
+		"STATUSPEGAWAI" : "PPPK",
+		"EMAIL" : "dimas.pratama@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "199309162023212037",
+		"NAMA" : "PRADINA RAHMASARI",
+		"NAMAJABATAN" : null,
+		"STATUSPEGAWAI" : "PPPK",
+		"EMAIL" : "pradina.rahmasari@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "198804242023211020",
+		"NAMA" : "RAHADI PARTOMI",
+		"NAMAJABATAN" : "Penata Pertanahan Ahli Pertama",
+		"STATUSPEGAWAI" : "PPPK",
+		"EMAIL" : null
+	},
+	{
+		"NIPBARU" : "199402152023211018",
+		"NAMA" : "RAMDHAN HOERUDIN",
+		"NAMAJABATAN" : "Penata Pertanahan Ahli Pertama",
+		"STATUSPEGAWAI" : "PPPK",
+		"EMAIL" : "ramdhanhoer@gmail.com"
+	},
+	{
+		"NIPBARU" : "199708042023212021",
+		"NAMA" : "SARAYA DINI FIRDAUS",
+		"NAMAJABATAN" : "Penata Pertanahan Ahli Pertama",
+		"STATUSPEGAWAI" : "PPPK",
+		"EMAIL" : null
+	},
+	{
+		"NIPBARU" : "199806062023212009",
+		"NAMA" : "WIDYA RAHMASARI",
+		"NAMAJABATAN" : null,
+		"STATUSPEGAWAI" : "PPPK",
+		"EMAIL" : "widya.rahmasari@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "195905151979031004",
+		"NAMA" : "ACHMAD ASRAR",
+		"NAMAJABATAN" : "Analis Penilai Tanah dan Pemeta Nilai Tanah",
+		"STATUSPEGAWAI" : "Pensiun",
+		"EMAIL" : null
+	},
+	{
+		"NIPBARU" : "195906191984011001",
+		"NAMA" : "ADRIAN",
+		"NAMAJABATAN" : "Pengolah Data Pengukuran dan Pemetaan",
+		"STATUSPEGAWAI" : "Pensiun",
+		"EMAIL" : null
+	},
+	{
+		"NIPBARU" : "196308301989111001",
+		"NAMA" : "AGUS INDRIATNO",
+		"NAMAJABATAN" : "Verifikator Berkas Permohonan Hak",
+		"STATUSPEGAWAI" : "Pensiun",
+		"EMAIL" : "agus.indriatno@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "196210131984031001",
+		"NAMA" : "AZWAN",
+		"NAMAJABATAN" : "Analis Survei, Pengukuran Dan Pemetaan",
+		"STATUSPEGAWAI" : "Pensiun",
+		"EMAIL" : "azwan@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "195808041984032006",
+		"NAMA" : "HASLINDA",
+		"NAMAJABATAN" : "Kepala Seksi Pengendalian dan Pemberdayaan",
+		"STATUSPEGAWAI" : "Pensiun",
+		"EMAIL" : null
+	},
+	{
+		"NIPBARU" : "196305061983031002",
+		"NAMA" : "HIMSAR",
+		"NAMAJABATAN" : "Kepala Kantor Pertanahan Kota Tangerang Selatan",
+		"STATUSPEGAWAI" : "Pensiun",
+		"EMAIL" : "himsar@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "196109251984031001",
+		"NAMA" : "INDRA FERNANDO",
+		"NAMAJABATAN" : "Kepala Seksi Hak Tanah dan Pendaftaran Tanah",
+		"STATUSPEGAWAI" : "Pensiun",
+		"EMAIL" : null
+	},
+	{
+		"NIPBARU" : "196210171985031021",
+		"NAMA" : "IWAN SISWANTO",
+		"NAMAJABATAN" : "Kepala Subseksi Pengukuran dan Pemetaan Kadastral",
+		"STATUSPEGAWAI" : "Pensiun",
+		"EMAIL" : "iwan.siswanto@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "196303031989031004",
+		"NAMA" : "M. FURQON",
+		"NAMAJABATAN" : "Penata Pertanahan Pertama",
+		"STATUSPEGAWAI" : "Pensiun",
+		"EMAIL" : "m.furqon@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "196406041989111001",
+		"NAMA" : "SUGIYADI",
+		"NAMAJABATAN" : "Kepala Seksi Penetapan Hak dan Pendaftaran",
+		"STATUSPEGAWAI" : "Pensiun",
+		"EMAIL" : "sugiyadi@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "196106141985031005",
+		"NAMA" : "SUNARTO",
+		"NAMAJABATAN" : "Analis Pengaturan Pertanahan",
+		"STATUSPEGAWAI" : "Pensiun",
+		"EMAIL" : null
+	},
+	{
+		"NIPBARU" : "196303221989031002",
+		"NAMA" : "SUPRIYONO",
+		"NAMAJABATAN" : "Analis Pertanahan",
+		"STATUSPEGAWAI" : "Pensiun",
+		"EMAIL" : "supriyono@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "196208051989031003",
+		"NAMA" : "WAHYUDI",
+		"NAMAJABATAN" : "Kepala Subbagian Tata Usaha",
+		"STATUSPEGAWAI" : "Pensiun",
+		"EMAIL" : "wahyudi01@atrbpn.go.id"
+	},
+	{
+		"NIPBARU" : "196308031986031002",
+		"NAMA" : "WIWIK HERIWIYADI",
+		"NAMAJABATAN" : "Pengolah Data Yuridis Pertanahan",
+		"STATUSPEGAWAI" : "Pensiun",
+		"EMAIL" : "wiwikheriwiyadi@gmail.com"
+	}
+]}

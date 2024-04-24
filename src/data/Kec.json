@@ -1,0 +1,31 @@
+{
+"data": [
+	{
+		"kecamatan" : "Pondok Aren",
+		"jumlah" : 102925
+	},
+	{
+		"kecamatan" : "Pamulang",
+		"jumlah" : 94547
+	},
+	{
+		"kecamatan" : "Ciputat",
+		"jumlah" : 66032
+	},
+	{
+		"kecamatan" : "Serpong",
+		"jumlah" : 60302
+	},
+	{
+		"kecamatan" : "Serpong Utara",
+		"jumlah" : 53962
+	},
+	{
+		"kecamatan" : "Ciputat Timur",
+		"jumlah" : 50686
+	},
+	{
+		"kecamatan" : "Setu",
+		"jumlah" : 30374
+	}
+]}

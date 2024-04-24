@@ -1,0 +1,283 @@
+{
+"data": [
+	{
+		"kecamatan" : "Pamulang",
+		"namadesa" : "Pondok Benda",
+		"jumlah" : 19048
+	},
+	{
+		"kecamatan" : "Pamulang",
+		"namadesa" : "Pamulang Barat",
+		"jumlah" : 17161
+	},
+	{
+		"kecamatan" : "Ciputat",
+		"namadesa" : "Sarua",
+		"jumlah" : 14518
+	},
+	{
+		"kecamatan" : "Serpong Utara",
+		"namadesa" : "Jalupang",
+		"jumlah" : 13700
+	},
+	{
+		"kecamatan" : "Ciputat Timur",
+		"namadesa" : "Pisangan",
+		"jumlah" : 13446
+	},
+	{
+		"kecamatan" : "Pondok Aren",
+		"namadesa" : "Jurangmangu Barat",
+		"jumlah" : 13001
+	},
+	{
+		"kecamatan" : "Pamulang",
+		"namadesa" : "Benda Baru",
+		"jumlah" : 12571
+	},
+	{
+		"kecamatan" : "Serpong",
+		"namadesa" : "Rawabuntu",
+		"jumlah" : 12508
+	},
+	{
+		"kecamatan" : "Ciputat",
+		"namadesa" : "Jombang",
+		"jumlah" : 12089
+	},
+	{
+		"kecamatan" : "Pondok Aren",
+		"namadesa" : "Pondok Kacang Timur",
+		"jumlah" : 11950
+	},
+	{
+		"kecamatan" : "Pondok Aren",
+		"namadesa" : "Pondok Aren",
+		"jumlah" : 11425
+	},
+	{
+		"kecamatan" : "Serpong Utara",
+		"namadesa" : "Pakujaya",
+		"jumlah" : 11350
+	},
+	{
+		"kecamatan" : "Pondok Aren",
+		"namadesa" : "Jurangmangu Timur",
+		"jumlah" : 10870
+	},
+	{
+		"kecamatan" : "Serpong",
+		"namadesa" : "Ciater",
+		"jumlah" : 10850
+	},
+	{
+		"kecamatan" : "Ciputat",
+		"namadesa" : "Sawah",
+		"jumlah" : 10227
+	},
+	{
+		"kecamatan" : "Pondok Aren",
+		"namadesa" : "Pondok Pucung",
+		"jumlah" : 10219
+	},
+	{
+		"kecamatan" : "Pondok Aren",
+		"namadesa" : "Parigi",
+		"jumlah" : 10087
+	},
+	{
+		"kecamatan" : "Pamulang",
+		"namadesa" : "Kedaung",
+		"jumlah" : 10027
+	},
+	{
+		"kecamatan" : "Ciputat Timur",
+		"namadesa" : "Pondok Ranji",
+		"jumlah" : 9619
+	},
+	{
+		"kecamatan" : "Pondok Aren",
+		"namadesa" : "Pondok Karya",
+		"jumlah" : 9576
+	},
+	{
+		"kecamatan" : "Pamulang",
+		"namadesa" : "Pamulang Timur",
+		"jumlah" : 9554
+	},
+	{
+		"kecamatan" : "Ciputat",
+		"namadesa" : "Sawah Baru",
+		"jumlah" : 9415
+	},
+	{
+		"kecamatan" : "Pamulang",
+		"namadesa" : "Pondok Cabe Udik",
+		"jumlah" : 9290
+	},
+	{
+		"kecamatan" : "Setu",
+		"namadesa" : "Babakan",
+		"jumlah" : 8895
+	},
+	{
+		"kecamatan" : "Pamulang",
+		"namadesa" : "Bambu Apus",
+		"jumlah" : 8631
+	},
+	{
+		"kecamatan" : "Pondok Aren",
+		"namadesa" : "Pondok Kacang Barat",
+		"jumlah" : 8607
+	},
+	{
+		"kecamatan" : "Pondok Aren",
+		"namadesa" : "Pondok Betung",
+		"jumlah" : 8535
+	},
+	{
+		"kecamatan" : "Serpong Utara",
+		"namadesa" : "Pondok Jagung",
+		"jumlah" : 8456
+	},
+	{
+		"kecamatan" : "Pamulang",
+		"namadesa" : "Pondok Cabe Ilir",
+		"jumlah" : 8265
+	},
+	{
+		"kecamatan" : "Serpong",
+		"namadesa" : "Buaran",
+		"jumlah" : 7878
+	},
+	{
+		"kecamatan" : "Ciputat Timur",
+		"namadesa" : "Cireundeu",
+		"jumlah" : 7566
+	},
+	{
+		"kecamatan" : "Ciputat",
+		"namadesa" : "Cipayung",
+		"jumlah" : 7484
+	},
+	{
+		"kecamatan" : "Ciputat Timur",
+		"namadesa" : "Rempoa",
+		"jumlah" : 7116
+	},
+	{
+		"kecamatan" : "Serpong",
+		"namadesa" : "Lengkong Gudang",
+		"jumlah" : 6804
+	},
+	{
+		"kecamatan" : "Ciputat",
+		"namadesa" : "Sarua Indah",
+		"jumlah" : 6760
+	},
+	{
+		"kecamatan" : "Ciputat Timur",
+		"namadesa" : "Rengas",
+		"jumlah" : 6626
+	},
+	{
+		"kecamatan" : "Serpong Utara",
+		"namadesa" : "Pakualam",
+		"jumlah" : 6463
+	},
+	{
+		"kecamatan" : "Setu",
+		"namadesa" : "Kademangan",
+		"jumlah" : 6385
+	},
+	{
+		"kecamatan" : "Ciputat Timur",
+		"namadesa" : "Cempaka Putih",
+		"jumlah" : 6313
+	},
+	{
+		"kecamatan" : "Serpong Utara",
+		"namadesa" : "Pondok Jagung Timur",
+		"jumlah" : 6175
+	},
+	{
+		"kecamatan" : "Serpong",
+		"namadesa" : "Rawa Mekar Jaya",
+		"jumlah" : 5775
+	},
+	{
+		"kecamatan" : "Ciputat",
+		"namadesa" : "Ciputat",
+		"jumlah" : 5539
+	},
+	{
+		"kecamatan" : "Serpong Utara",
+		"namadesa" : "Pakulonan",
+		"jumlah" : 5145
+	},
+	{
+		"kecamatan" : "Setu",
+		"namadesa" : "Bakti Jaya",
+		"jumlah" : 5131
+	},
+	{
+		"kecamatan" : "Serpong",
+		"namadesa" : "Lengkong Wetan",
+		"jumlah" : 4702
+	},
+	{
+		"kecamatan" : "Pondok Aren",
+		"namadesa" : "Parigi Baru",
+		"jumlah" : 4417
+	},
+	{
+		"kecamatan" : "Setu",
+		"namadesa" : "Setu",
+		"jumlah" : 4410
+	},
+	{
+		"kecamatan" : "Serpong",
+		"namadesa" : "Serpong",
+		"jumlah" : 4258
+	},
+	{
+		"kecamatan" : "Pondok Aren",
+		"namadesa" : "Pondok Jaya",
+		"jumlah" : 4178
+	},
+	{
+		"kecamatan" : "Serpong",
+		"namadesa" : "Lengkong Gudang Timur",
+		"jumlah" : 4063
+	},
+	{
+		"kecamatan" : "Serpong",
+		"namadesa" : "Cilenggang",
+		"jumlah" : 3464
+	},
+	{
+		"kecamatan" : "Setu",
+		"namadesa" : "Kranggan",
+		"jumlah" : 3056
+	},
+	{
+		"kecamatan" : "Serpong Utara",
+		"namadesa" : "Lengkong Karya",
+		"jumlah" : 2673
+	},
+	{
+		"kecamatan" : "Setu",
+		"namadesa" : "Muncul",
+		"jumlah" : 2497
+	},
+	{
+		"kecamatan" : "Pondok Aren",
+		"namadesa" : "Jurangmangu",
+		"jumlah" : 60
+	},
+	{
+		"kecamatan" : "Banten",
+		"namadesa" : "Tangerang Selatan",
+		"jumlah" : 4
+	}
+]}

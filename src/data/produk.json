@@ -1,0 +1,63 @@
+{
+"data": [
+	{
+		"produk" : "Rutin",
+		"jumlah" : 211917
+	},
+	{
+		"produk" : "PTSL Prona",
+		"jumlah" : 130581
+	},
+	{
+		"produk" : "Proses Berkas",
+		"jumlah" : 97669
+	},
+	{
+		"produk" : "Entry Data",
+		"jumlah" : 5610
+	},
+	{
+		"produk" : "Data Entri Dokumen",
+		"jumlah" : 4896
+	},
+	{
+		"produk" : "Tidak Diketahui",
+		"jumlah" : 3753
+	},
+	{
+		"produk" : "Ganti Desa",
+		"jumlah" : 3267
+	},
+	{
+		"produk" : "Proyek Operasi Nasional Agraria (PRONA)",
+		"jumlah" : 495
+	},
+	{
+		"produk" : "PTSL UKM",
+		"jumlah" : 398
+	},
+	{
+		"produk" : "Sertipikasi Tanah UMK",
+		"jumlah" : 104
+	},
+	{
+		"produk" : "Pra dan Paska UKM",
+		"jumlah" : 97
+	},
+	{
+		"produk" : "Sertipikasi Barang Milik Negara (BMN) Luasan < 25.000 m2",
+		"jumlah" : 32
+	},
+	{
+		"produk" : "Sertipikasi Barang Milik Negara (BMN)",
+		"jumlah" : 10
+	},
+	{
+		"produk" : "Pendaftaran Tanah Sistematis Lengkap",
+		"jumlah" : 2
+	},
+	{
+		"produk" : "Pengadaan Tanah",
+		"jumlah" : 1
+	}
+]}

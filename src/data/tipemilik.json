@@ -1,0 +1,47 @@
+{
+"data": [
+	{
+		"tipepemilik" : "Perorangan",
+		"jumlah" : 417626
+	},
+	{
+		"tipepemilik" : "Badan Hukum",
+		"jumlah" : 25028
+	},
+	{
+		"tipepemilik" : "Badan Usaha Milik Negara (BUMN)",
+		"jumlah" : 5201
+	},
+	{
+		"tipepemilik" : "Tidak Diketahui",
+		"jumlah" : 4927
+	},
+	{
+		"tipepemilik" : "Instansi Pemerintah",
+		"jumlah" : 3022
+	},
+	{
+		"tipepemilik" : "Badan Usaha Milik Swasta (BUMS)",
+		"jumlah" : 2959
+	},
+	{
+		"tipepemilik" : "Badan Hukum Sosial dan Keagamaan",
+		"jumlah" : 29
+	},
+	{
+		"tipepemilik" : "Badan Usaha Mlik Daerah (BUMD)",
+		"jumlah" : 20
+	},
+	{
+		"tipepemilik" : "Instansi Pemerintah Pusat",
+		"jumlah" : 13
+	},
+	{
+		"tipepemilik" : "Instansi Pemerintah Daerah",
+		"jumlah" : 6
+	},
+	{
+		"tipepemilik" : "Warga Negara Asing",
+		"jumlah" : 1
+	}
+]}

@@ -1,0 +1,31 @@
+{
+"data": [
+	{
+		"tipehak" : "Hak Milik",
+		"jumlah" : 376650
+	},
+	{
+		"tipehak" : "Hak Guna Bangunan",
+		"jumlah" : 80660
+	},
+	{
+		"tipehak" : "Hak Pakai",
+		"jumlah" : 883
+	},
+	{
+		"tipehak" : "Hak Wakaf",
+		"jumlah" : 624
+	},
+	{
+		"tipehak" : "Hak Pengelolaan",
+		"jumlah" : 12
+	},
+	{
+		"tipehak" : "Tidak Diketahui",
+		"jumlah" : 2
+	},
+	{
+		"tipehak" : "Surat Keputusan Pemberian Hak",
+		"jumlah" : 1
+	}
+]}
